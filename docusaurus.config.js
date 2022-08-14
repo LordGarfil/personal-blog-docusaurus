@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'My Blog',
   tagline: 'Dinosaurs are cool',
-  url: 'https://aesthetic-dodol-f09062.netlify.app/',
+  url: 'https://aesthetic-dodol-f09062.netlify.app',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
